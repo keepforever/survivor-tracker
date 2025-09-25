@@ -1,0 +1,21 @@
+{
+  "cSpell.words": ["brandkit", "brandkits", "checkly", "nums", "sonner", "tvadsai"],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#134e4a",
+    "titleBar.activeBackground": "#0d766f",
+    "titleBar.activeForeground": "#f0fdfa",
+    // tab colors
+    "tab.activeBackground": "#f59e0b80", // Background color of the active tab
+    "tab.activeForeground": "#f8f8f8", // Text color of the active tab
+    "tab.border": "#475569", // Border color between tabs
+    "tab.activeBorder": "#e11d48",
+
+    // Cursor customization - bright and thick cursor
+    "editorCursor.foreground": "#00ff00", // Bright green cursor
+    "editorCursor.background": "#ffffff", // White background for block cursors
+    "terminalCursor.foreground": "#00ff00" // Terminal cursor color
+  },
+  "editor.cursorStyle": "line", // Options: 'line', 'block', 'underline'
+  "editor.cursorBlinking": "blink", // Options: 'blink', 'smooth', 'phase', 'expand', 'solid'
+  "editor.cursorWidth": 3 // Makes the cursor thicker (default is usually 1 or 2)
+}
