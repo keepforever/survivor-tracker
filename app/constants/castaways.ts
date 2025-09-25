@@ -1,0 +1,23 @@
+const castaways = [
+  { pool_participant: "MARY ANN", castaway: "JASON TREUL" },
+  { pool_participant: "JEFF", castaway: "SAVANNAH LOUIE" },
+  { pool_participant: "KRYSTAL", castaway: "SHANNON FAIRWEATHER" },
+  { pool_participant: "DEE DEE", castaway: "MATT WILIAMS" },
+  { pool_participant: "GREG S.", castaway: "JAWAN PITTS" },
+  { pool_participant: "JOHN K", castaway: "NATE MOORE" },
+  { pool_participant: "KIM", castaway: "NICOLE MAZULLO", note: "1st 9-24" },
+  { pool_participant: "TIM", castaway: "KRISTINA MILLS" },
+  { pool_participant: "STEPHANIE", castaway: "SOPHI BALERDI" },
+  { pool_participant: "VINCE", castaway: "ALEX MOORE" },
+  {
+    pool_participant: "BRIAN",
+    castaway: "MICHELLE MC CHUKWUJEKWU",
+  },
+  { pool_participant: "EMILY", castaway: "RIZO VELOVIC" },
+  { pool_participant: "JERAMIE", castaway: "SAGE AHRENS-NICHOLS" },
+  { pool_participant: "TERRY", castaway: "JAKE LATIMER" },
+  { pool_participant: "PAT", castaway: "SOPHIE SEGRETI" },
+  { pool_participant: "HAILEY", castaway: "KIM ANNIE DAVIS" },
+  { pool_participant: "JOHN K SR", castaway: "STEVEN RAMM" },
+  { pool_participant: "JOHN B.", castaway: "JERAMIAH ING" },
+];
